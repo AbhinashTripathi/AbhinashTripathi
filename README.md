@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhinashTripathi
 - 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning Machine learning / python
-- 💞️ I’m looking to collaborate on girhub
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me abinash.era@gmail.com
 
 <!---
